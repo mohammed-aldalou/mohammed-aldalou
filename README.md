@@ -1,12 +1,11 @@
 # Hi, I'm Mohammed Al-Dalou 👋
 
-IT Student at Palestine Technical College 🎓 
+Web Design & Development student passionate about frontend development and building practical digital experiences, with skills in HTML, CSS, PHP, and responsive design.
 
-
-Based in Gaza, Palestine 🇵🇸
+Open to remote opportunities, internships, freelance projects, and entry-level positions where I can contribute, learn, and grow.
 
 ## About me
-I'm a web development student who loves building projects and learning something new every day.
+I'm a student at Palestine Technical College in Gaza, Palestine 🇵🇸, and I love building projects and learning something new every day.
 
 ## Skills
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
