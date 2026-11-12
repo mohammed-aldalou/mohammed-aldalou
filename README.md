@@ -1,6 +1,8 @@
 # Hi, I'm Mohammed Al-Dalou 👋
 
-IT Student at Palestine Technical College 🎓
+IT Student at Palestine Technical College 🎓 
+
+
 Based in Gaza, Palestine 🇵🇸
 
 ## About me
